@@ -23,8 +23,6 @@ This repo contain all the Documentation i used thoughtout
 
 - [Deep Learning Book (Ian Goodfellow)](https://www.deeplearningbook.org/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-- [Loss Functions in Deep Learning](https://towardsdatascience.com/understanding-loss-functions-in-deep-learning-1f4142c5f7da)
-- [Transfer Learning Guide](https://www.analyticsvidhya.com/blog/2020/04/what-is-transfer-learning-and-how-to-implement-it/)
 - - [Keras Documentation](https://keras.io/api/)
 
 ---
