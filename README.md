@@ -1,62 +1,56 @@
 # Documentations
 This repo contain all the Documentation i used thoughtout
-# 📚 My Documentation Collection
 
-A curated collection of documentation I’ve gathered and created throughout my learning and development. Organized by topic for quick reference.
+# 📚 My Documentation Collection
 
 ---
 
 ## 🤖 Machine Learning (ML)
 
-- [Scikit-Learn Notes](docs/ml/sklearn.md)
-- [PyTorch Tips & Tricks](docs/ml/pytorch.md)
-- [Model Evaluation Metrics](docs/ml/metrics.md)
-- [Feature Engineering Guide](docs/ml/feature_engineering.md)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [Feature Engineering Techniques](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 
 ---
 
 ## 🐧 Linux
 
-- [Zsh Cheatsheet](docs/linux/zsh_cheatsheet.md)
-- [Neovim Setup + Plugins](docs/linux/neovim_setup.md)
-- [Tmux Shortcuts](docs/linux/tmux.md)
-- [Bash Scripting](docs/linux/bash.md)
+- [Zsh Documentation](https://zsh.sourceforge.io/Doc/)
+- [Neovim User Guide](https://neovim.io/doc/)
+- [Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 
 ---
 
 ## 🧠 Deep Learning
 
-- [CNN Architectures Explained](docs/deep_learning/cnn_architectures.md)
-- [Training Tricks & Techniques](docs/deep_learning/training_tips.md)
-- [Loss Functions Overview](docs/deep_learning/loss_functions.md)
-- [Transfer Learning Notes](docs/deep_learning/transfer_learning.md)
+- [Deep Learning Book (Ian Goodfellow)](https://www.deeplearningbook.org/)
+- [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [Loss Functions in Deep Learning](https://towardsdatascience.com/understanding-loss-functions-in-deep-learning-1f4142c5f7da)
+- [Transfer Learning Guide](https://www.analyticsvidhya.com/blog/2020/04/what-is-transfer-learning-and-how-to-implement-it/)
+- - [Keras Documentation](https://keras.io/api/)
 
 ---
 
 ## ⚙️ MLOps
 
-- [Docker for ML Projects](docs/mlops/docker_ml.md)
-- [MLflow Setup Guide](docs/mlops/mlflow.md)
-- [Model Deployment Options](docs/mlops/deployment.md)
-- [CI/CD for ML](docs/mlops/cicd_ml.md)
+- [Docker Docs](https://docs.docker.com/)
+- [MLflow Docs](https://mlflow.org/docs/latest/index.html)
+- [Kubeflow Docs](https://www.kubeflow.org/docs/)
+- [CI/CD for ML Projects](https://mlops.community/mlops/cicd/)
 
 ---
 
 ## ⏳ Coming Soon
 
-- Data Engineering Notes
-- Prompt Engineering
-- Crypto Smart Contract Dev
-- Rust for Blockchain
-
 ---
 
 ### 🔍 How to Use
 
-Click on any topic above to dive into the docs. Everything is in markdown and optimized for fast reference.
+This is a centralized index of valuable resources I've collected. Just click and explore.
 
 ---
 
-### 📌 Note
+### ⚠️ Disclaimer
 
-This is a living repo. I’ll be updating and adding more over time. Feel free to fork or reference anything useful.
+Some links may go to external blogs or tutorials. I don’t own them—credit goes to the original authors.
