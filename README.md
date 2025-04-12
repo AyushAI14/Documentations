@@ -9,15 +9,12 @@ This repo contain all the Documentation i used thoughtout
 
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
-- [Feature Engineering Techniques](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
-
 ---
 
 ## 🐧 Linux
 
 - [Zsh Documentation](https://zsh.sourceforge.io/Doc/)
 - [Neovim User Guide](https://neovim.io/doc/)
-- [Tmux Cheat Sheet](https://tmuxcheatsheet.com/)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 
 ---
