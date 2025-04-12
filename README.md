@@ -16,6 +16,7 @@ This repo contain all the Documentation i used thoughtout
 - [Zsh Documentation](https://zsh.sourceforge.io/Doc/)
 - [Neovim User Guide](https://neovim.io/doc/)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+- [Vim Achitecture](https://rawgit.com/darcyparker/1886716/raw/vimModeStateDiagram.svg)
 
 ---
 
