@@ -9,6 +9,8 @@ This repo contain all the Documentation i used thoughtout
 
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [MadeWithML](https://madewithml.com/)
+- [kaggle](https://www.kaggle.com/)
 ---
 
 ## 🐧 Linux
@@ -35,6 +37,11 @@ This repo contain all the Documentation i used thoughtout
 - [Kubeflow Docs](https://www.kubeflow.org/docs/)
 - [CI/CD for ML Projects](https://mlops.community/mlops/cicd/)
 - [dagshub](https://dagshub.com/dashboard)
+
+  ## MLops Learning
+- [MLOps](https://ml-ops.org/)
+- [Mlops Playlist](https://github.com/kelvins/awesome-mlops)
+- [Mlops median](https://animadurkar.medium.com/10-awesome-resources-for-learning-mlops-e6ab65a62f2a)
 
 ---
 
