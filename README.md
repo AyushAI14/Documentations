@@ -11,6 +11,7 @@ This repo contain all the Documentation i used thoughtout
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
 - [MadeWithML](https://madewithml.com/)
 - [kaggle](https://www.kaggle.com/)
+- [Datawar](https://app.datawars.io/catalog?learning_area=Machine+Learning&status=Published)
 ---
 
 ## 🐧 Linux
