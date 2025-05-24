@@ -49,6 +49,7 @@ This repo contain all the Documentation i used thoughtout
 - [NLTK](https://www.nltk.org/)
 - [spaCy](https://spacy.io/)
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
+- [Transformers blog](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers (Hugging Face)](https://huggingface.co/transformers/)
 - [Flair](https://github.com/flairNLP/flair)
 - [AllenNLP](https://allennlp.org/)
