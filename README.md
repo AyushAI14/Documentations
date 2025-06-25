@@ -65,6 +65,9 @@ This repo contain all the Documentation i used thoughtout
 - [LlamaIndex](https://www.llamaindex.ai/)
 
 ---
+## DEPLOYMENT
+- [FASTAPI](https://fastapi.tiangolo.com/learn/)
+- [DOCKER](https://docs.docker.com/get-started/introduction/)
 
 ### 🔍 How to Use
 
