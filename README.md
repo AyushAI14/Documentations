@@ -39,6 +39,7 @@ This repo contain all the Documentation i used thoughtout
 - [CI/CD for ML Projects](https://mlops.community/mlops/cicd/)
 - [dagshub](https://dagshub.com/dashboard)
 
+
   ## MLops Learning
 - [MLOps](https://ml-ops.org/)
 - [whole Mlops github ](https://github.com/kelvins/awesome-mlops)
@@ -61,13 +62,18 @@ This repo contain all the Documentation i used thoughtout
 - [NLPAug](https://github.com/makcedward/nlpaug)
 - [TextAttack](https://textattack.readthedocs.io/en/latest/)
 - [Haystack](https://haystack.deepset.ai/)
-- [LangChain](https://www.langchain.com/)
 - [LlamaIndex](https://www.llamaindex.ai/)
+
+## GenAI
+- [LangChain](https://www.langchain.com/)
+- [Google ADK](https://google.github.io/adk-docs/get-started/python/)
+- [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
 
 ---
 ## DEPLOYMENT
 - [FASTAPI](https://fastapi.tiangolo.com/learn/)
 - [DOCKER](https://docs.docker.com/get-started/introduction/)
+- [streamlit](https://docs.streamlit.io/)
 
 ### 🔍 How to Use
 
