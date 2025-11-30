@@ -63,6 +63,7 @@ This repo contain all the Documentation i used thoughtout
 - [LangChain](https://www.langchain.com/)
 - [Google ADK](https://google.github.io/adk-docs/get-started/python/)
 - [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [CREWAI](https://docs.crewai.com/en/)
 
 ---
 ## DEPLOYMENT
