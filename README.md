@@ -52,16 +52,11 @@ This repo contain all the Documentation i used thoughtout
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - [Transformers blog](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers (Hugging Face)](https://huggingface.co/transformers/)
-- [Flair](https://github.com/flairNLP/flair)
 - [AllenNLP](https://allennlp.org/)
-- [OpenNMT](https://opennmt.net/)
 - [Gensim](https://radimrehurek.com/gensim/)
 - [fastText](https://fasttext.cc/)
 - [sentence-transformers](https://www.sbert.net/)
 - [Hugging Face Datasets](https://huggingface.co/docs/datasets/)
-- [NLPAug](https://github.com/makcedward/nlpaug)
-- [TextAttack](https://textattack.readthedocs.io/en/latest/)
-- [Haystack](https://haystack.deepset.ai/)
 - [LlamaIndex](https://www.llamaindex.ai/)
 
 ## GenAI
